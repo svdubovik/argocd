@@ -2,4 +2,5 @@ argocd: {}
 
 ingress_nginx: {}
 
-sealed_secrets: {}
+sealed_secrets:
+  targetRevision: 1.16.1
