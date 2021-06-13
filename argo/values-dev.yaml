@@ -1,0 +1,4 @@
+env: dev
+
+sealed_secrets:
+  enable: true
