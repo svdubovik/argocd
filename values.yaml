@@ -1,0 +1,5 @@
+argocd: {}
+
+ingress_nginx: {}
+
+sealed_secrets: {}
